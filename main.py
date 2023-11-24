@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 # Set up data
 # ==========================
 
-file_path = "other/stackoverflow_full.csv"
+file_path = "stackoverflow_full.csv"
 
 df = pd.read_csv(file_path)
 

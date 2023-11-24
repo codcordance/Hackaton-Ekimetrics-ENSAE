@@ -10,7 +10,7 @@ from sklearn.preprocessing import OneHotEncoder
 
 # Set up data
 
-file_path = "stackoverflow_full.csv"
+file_path = "../stackoverflow_full.csv"
 df = pd.read_csv(file_path)
 
 df = df.drop(columns=["Unnamed: 0"])
