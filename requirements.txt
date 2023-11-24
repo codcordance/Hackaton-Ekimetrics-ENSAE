@@ -3,4 +3,4 @@ pandas
 numpy
 dalex
 plotly
-sklearn
+scikit-learn
